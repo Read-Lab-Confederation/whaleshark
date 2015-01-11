@@ -1,0 +1,19 @@
+Processing: 
+ qcFiles/spleen1_PE_R1.fastq.gz 
+ qcFiles/spleen1_PE_R2.fastq.gz 
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (108, 847454, 7, 15)
+[M::mem_pestat] analyzing insert size distribution for orientation FF...
+[M::mem_pestat] (25, 50, 75) percentile: (118, 177, 226)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 442)
+[M::mem_pestat] mean and std.dev: (171.75, 65.08)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 550)
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (236, 272, 310)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (88, 458)
+[M::mem_pestat] mean and std.dev: (274.07, 54.51)
+[M::mem_pestat] low and high boundaries for proper pairs: (14, 532)
+[M::mem_pestat] skip orientation RF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation RR...
+[M::mem_pestat] (25, 50, 75) percentile: (481, 736, 1600)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 3838)
+Orientation FR mean 274 stdev 54

@@ -1,0 +1,23 @@
+Processing: 
+ qcFiles/C4BCWACXX_PE_R1.fastq.gz 
+ qcFiles/C4BCWACXX_PE_R2.fastq.gz 
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (508, 158249, 167606, 485)
+[M::mem_pestat] analyzing insert size distribution for orientation FF...
+[M::mem_pestat] (25, 50, 75) percentile: (1404, 2564, 3521)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 7755)
+[M::mem_pestat] mean and std.dev: (2581.66, 1544.77)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 9872)
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (226, 308, 417)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 799)
+[M::mem_pestat] mean and std.dev: (328.23, 145.45)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 990)
+[M::mem_pestat] analyzing insert size distribution for orientation RF...
+[M::mem_pestat] (25, 50, 75) percentile: (6665, 7133, 7630)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (4735, 9560)
+[M::mem_pestat] mean and std.dev: (7161.69, 755.37)
+[M::mem_pestat] low and high boundaries for proper pairs: (3770, 10525)
+[M::mem_pestat] analyzing insert size distribution for orientation RR...
+[M::mem_pestat] (25, 50, 75) percentile: (1613, 2664, 3708)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 7898)
+Orientation RF mean 7161 stdev 755

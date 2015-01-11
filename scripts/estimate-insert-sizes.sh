@@ -1,0 +1,9 @@
+python scripts/estimate-insert-sizes/estimate-insert-sizes.py index/ws_2013_assembly qcFiles/AD09WVACXX_PE_R1.fastq.gz qcFiles/AD09WVACXX_PE_R2.fastq.gz > qcFiles/AD09WVACXX_PE_stats.txt
+python scripts/estimate-insert-sizes/estimate-insert-sizes.py index/ws_2013_assembly qcFiles/ADO10785S2_PE_R1.fastq.gz qcFiles/ADO10785S2_PE_R2.fastq.gz > qcFiles/ADO10785S2_PE_stats.txt
+python scripts/estimate-insert-sizes/estimate-insert-sizes.py index/ws_2013_assembly qcFiles/ADO10785S3_PE_R1.fastq.gz qcFiles/ADO10785S3_PE_R2.fastq.gz > qcFiles/ADO10785S3_PE_stats.txt
+python scripts/estimate-insert-sizes/estimate-insert-sizes.py index/ws_2013_assembly qcFiles/BCOT1RACXX_PE_R1.fastq.gz qcFiles/BCOT1RACXX_PE_R2.fastq.gz > qcFiles/BCOT1RACXX_PE_stats.txt
+python scripts/estimate-insert-sizes/estimate-insert-sizes.py index/ws_2013_assembly qcFiles/C4BCWACXX_PE_R1.fastq.gz qcFiles/C4BCWACXX_PE_R2.fastq.gz > qcFiles/C4BCWACXX_PE_stats.txt
+python scripts/estimate-insert-sizes/estimate-insert-sizes.py index/ws_2013_assembly qcFiles/D0F34ACXX_PE_R1.fastq.gz qcFiles/D0F34ACXX_PE_R2.fastq.gz > qcFiles/D0F34ACXX_PE_stats.txt
+python scripts/estimate-insert-sizes/estimate-insert-sizes.py index/ws_2013_assembly qcFiles/liver_PE_R1.fastq.gz qcFiles/liver_PE_R2.fastq.gz > qcFiles/liver_PE_stats.txt
+python scripts/estimate-insert-sizes/estimate-insert-sizes.py index/ws_2013_assembly qcFiles/spleen1_PE_R1.fastq.gz qcFiles/spleen1_PE_R2.fastq.gz > qcFiles/spleen1_PE_stats.txt
+python scripts/estimate-insert-sizes/estimate-insert-sizes.py index/ws_2013_assembly qcFiles/spleen2_PE_R1.fastq.gz qcFiles/spleen2_PE_R2.fastq.gz > qcFiles/spleen2_PE_stats.txt

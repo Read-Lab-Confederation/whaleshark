@@ -1,0 +1,19 @@
+Processing: 
+ qcFiles/liver_PE_R1.fastq.gz 
+ qcFiles/liver_PE_R2.fastq.gz 
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (45, 768986, 6, 11)
+[M::mem_pestat] analyzing insert size distribution for orientation FF...
+[M::mem_pestat] (25, 50, 75) percentile: (110, 140, 188)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 344)
+[M::mem_pestat] mean and std.dev: (127.92, 51.31)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 422)
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (185, 212, 243)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (69, 359)
+[M::mem_pestat] mean and std.dev: (215.70, 43.32)
+[M::mem_pestat] low and high boundaries for proper pairs: (11, 417)
+[M::mem_pestat] skip orientation RF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation RR...
+[M::mem_pestat] (25, 50, 75) percentile: (317, 828, 2247)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 6107)
+Orientation FR mean 215 stdev 43
